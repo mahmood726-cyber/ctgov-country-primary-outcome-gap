@@ -3,7 +3,7 @@
   "slug": "ctgov-country-primary-outcome-gap",
   "author": "Mahmood Ahmad",
   "date": "2026-03-29",
-  "path": "C:\\Projects\\ctgov-country-primary-outcome-gap",
+  "path": "C:\\Projects\\ctgov-analyses/ctgov-country-primary-outcome-gap",
   "type": "methods",
   "primary_estimand": "Primary-outcome-gap stock among older studies missing the primary outcome description field",
   "summary": "A standalone E156 project on which country-linked portfolios most often omit primary-outcome descriptions from older CT.gov study records.",
@@ -48,10 +48,11 @@
     "validation": "FULL REGISTRY RUN"
   },
   "affiliation": "Tahir Heart Institute",
-  "email": "author@example.com",
+  "email": "mahmood.ahmad2@nhs.net",
   "references": [
     "ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.",
     "DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369.",
     "Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004."
-  ]
+  ],
+  "submitted": false
 }
